@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Luiz Henrique e sou Full-Stack Dev, de Guarulhos - SP</h2>
+<h2 align="left">Oi 👋! Meu nome é Luiz Henrique e sou Front-End Dev, de Guarulhos - SP</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=luizzhenrique1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
