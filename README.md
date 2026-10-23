@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/luiz-henrique-324825200/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:luizhsmlima@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+<a href="https://portfolio-luiz-cyan.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
 
 </div>
 
@@ -52,10 +52,10 @@ Sou de **Guarulhos – SP**, estudante de **Análise e Desenvolvimento de Sistem
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| 🎬 **[Mini-Documentários com IA](https://github.com/luizzhenrique1/NOME-DO-REPO)** | A partir de um prompt, gera vídeos de 8 a 15 min: roteiro por capítulos, narração local, legendas palavra a palavra, imagens por IA e render em 1080p | `Node.js` `React 19` `Remotion` `FFmpeg` `Groq` `Kokoro TTS (ONNX)` |
-| ⚡ **[AutomaVideo](https://github.com/luizzhenrique1/NOME-DO-REPO)** | Automatiza vídeos curtos (Shorts/Reels) com ganchos de retenção, narração e legendas dinâmicas estilo CapCut | `Node.js` `Remotion` `Gemini` `ElevenLabs` `FFmpeg` |
-| 💰 **[Vault Finances](https://github.com/luizzhenrique1/NOME-DO-REPO)** | Aplicação full stack de controle financeiro com API que valida e persiste receitas e despesas | `Next.js` `React` `Tailwind` `Node.js` `MySQL` |
-| 🌐 **[Finwise Site](https://github.com/luizzhenrique1/NOME-DO-REPO)** | Site institucional responsivo com integração ao WhatsApp, entregue de ponta a ponta para cliente real | `Next.js` `React` `Tailwind` |
+| 🎬 **[Mini-Documentários com IA](https://github.com/luizzhenrique1/Long-Video-Automation)** | A partir de um prompt, gera vídeos de 8 a 15 min: roteiro por capítulos, narração local, legendas palavra a palavra, imagens por IA e render em 1080p | `Node.js` `React 19` `Remotion` `FFmpeg` `Groq` `Kokoro TTS (ONNX)` |
+| ⚡ **[AutomaVideo](https://github.com/luizzhenrique1/AutomaVideos)** | Automatiza vídeos curtos (Shorts/Reels) com ganchos de retenção, narração e legendas dinâmicas estilo CapCut | `Node.js` `Remotion` `Gemini` `ElevenLabs` `FFmpeg` |
+| 💰 **[Vault Finances](https://github.com/luizzhenrique1/teste-frontend-developer)** | Aplicação full stack de controle financeiro com API que valida e persiste receitas e despesas | `Next.js` `React` `Tailwind` `Node.js` `MySQL` |
+| 🌐 **[Finwise Site](https://github.com/luizzhenrique1/FinwiseSiteRemake)** | Site institucional responsivo com integração ao WhatsApp, entregue de ponta a ponta para cliente real | `Next.js` `React` `Tailwind` |
 
 > 🔗 Cada projeto tem README com como rodar, demonstração e decisões técnicas.
 
@@ -65,12 +65,8 @@ Sou de **Guarulhos – SP**, estudante de **Análise e Desenvolvimento de Sistem
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizzhenrique1&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzhenrique1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=luizzhenrique1&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=luizzhenrique1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luizzhenrique1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens" />
 
 </div>
 
