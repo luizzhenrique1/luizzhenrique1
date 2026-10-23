@@ -1,37 +1,98 @@
-<h2 align="left">Oi 👋! Meu nome é Luiz Henrique e sou Full-Stack Dev, de Guarulhos - SP</h2>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Luiz%20Henrique&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Web%20J%C3%BAnior%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=18&descAlignY=60" alt="Banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Constru%C3%A7%C3%A3o+de+interfaces+r%C3%A1pidas+e+acess%C3%ADveis;Apps+full+stack+com+Next.js+%2B+Node+%2B+TypeScript;Automa%C3%A7%C3%A3o+com+IA+generativa+e+LLMs;Em+busca+da+primeira+oportunidade+em+tech+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/luiz-henrique-324825200/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:luizhsmlima@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+
+</div>
+
+---
+
+## 👋 Sobre mim
+
+Sou de **Guarulhos – SP**, estudante de **Análise e Desenvolvimento de Sistemas (IFSP)** e desenvolvedor web com foco em **front-end moderno** e **aplicações full stack**.
+
+- 🎯 Construo interfaces com **React, Next.js e TypeScript**, e APIs com **Node.js**
+- 🤖 Crio **pipelines de automação com IA generativa**: roteiro, narração, legendas sincronizadas e renderização de vídeo a partir de um único prompt
+- 📊 Estudando **SQL, PostgreSQL e Python (pandas)** para expandir para dados
+- ☁️ Certificado **AWS Cloud Practitioner** · 🌎 Inglês B2
+- 📫 **Aberto a estágio e vagas júnior** em desenvolvimento web / front-end / full stack
+
+---
+
+## 🧰 Stack
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=luizzhenrique1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=luizzhenrique1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="Front-end" />
+
+**Back-end e dados**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,cs,mysql,postgres&perline=5" alt="Back-end e dados" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,aws,figma,vscode&perline=6" alt="Ferramentas" />
+
 </div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que faz | Stack |
+|---|---|---|
+| 🎬 **[Mini-Documentários com IA](https://github.com/luizzhenrique1/NOME-DO-REPO)** | A partir de um prompt, gera vídeos de 8 a 15 min: roteiro por capítulos, narração local, legendas palavra a palavra, imagens por IA e render em 1080p | `Node.js` `React 19` `Remotion` `FFmpeg` `Groq` `Kokoro TTS (ONNX)` |
+| ⚡ **[AutomaVideo](https://github.com/luizzhenrique1/NOME-DO-REPO)** | Automatiza vídeos curtos (Shorts/Reels) com ganchos de retenção, narração e legendas dinâmicas estilo CapCut | `Node.js` `Remotion` `Gemini` `ElevenLabs` `FFmpeg` |
+| 💰 **[Vault Finances](https://github.com/luizzhenrique1/NOME-DO-REPO)** | Aplicação full stack de controle financeiro com API que valida e persiste receitas e despesas | `Next.js` `React` `Tailwind` `Node.js` `MySQL` |
+| 🌐 **[Finwise Site](https://github.com/luizzhenrique1/NOME-DO-REPO)** | Site institucional responsivo com integração ao WhatsApp, entregue de ponta a ponta para cliente real | `Next.js` `React` `Tailwind` |
+
+> 🔗 Cada projeto tem README com como rodar, demonstração e decisões técnicas.
+
+---
+
+## 📊 GitHub em números
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizzhenrique1&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzhenrique1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=luizzhenrique1&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+
 </div>
 
-<div align="left">
-  <a href="https://www.instagram.com/luizhsml">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/luiz-henrique-324825200/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+---
 
-<br clear="both">
+## 🌱 Foco atual
+
+- [x] React, Next.js e TypeScript em projetos reais
+- [x] Automação com LLMs, TTS e renderização programática de vídeo
+- [ ] SQL e PostgreSQL com Prisma
+- [ ] Testes automatizados (Vitest, Testing Library, Playwright)
+- [ ] Docker e CI/CD com GitHub Actions
+- [ ] Python para análise de dados (pandas) e Power BI
+
+---
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/luizzhenrique1/luizzhenrique1/output/snake.svg" alt="Snake animation" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Rodapé" />
+
+</div>
